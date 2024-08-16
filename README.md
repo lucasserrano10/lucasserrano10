@@ -1,21 +1,19 @@
-### Hi I´m Lucas Serrano
-
-- 🌱 I’m currently learning front-end
-- ✔ At this moment, i´m trying to develop my knowledge to be a junior developer
-- 📫 How to reach me: email: lucasserrano376@gmail.com
-- 😄 Pronouns: he/him
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasserrano10&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasserrano10&layout=donut)](https://github.com/lucasserrano10/github-readme-stats)
-
-<div style="display : inline_block"><br>
-            <i class="devicon-javascript-plain colored"></i>
-            <i class="devicon-html5-plain-wordmark colored"></i>
-</div>
-          
-          
+# 💫 About Me:
+✔ At this moment, i´m trying to develop my knowledge to be a junior developer<br>🌱 I’m currently learning front-end and your world !<br>📫 How to reach me: email: lucasserrano376@gmail.com<br>🔨 Linkedin: https://www.linkedin.com/in/lucas-serrano-8168b6206/<br>😄 Pronouns: he/him
 
 
-           
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/lucas-serrano-8168b6206/) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucaserrano10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucaserrano10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserrano10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lucaserrano10&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
