@@ -1,7 +1,7 @@
 ## Hi, I´m Lucas Serrano
 
 # 💫 About Me:
-✔ At this moment, i´m trying to develop my knowledge to be a junior developer<br>🌱 I’m currently learning front-end and your world !<br>📫 How to reach me: email: lucasserrano376@gmail.com<br>🔨 Linkedin: https://www.linkedin.com/in/lucas-serrano-8168b6206/<br>😄 Pronouns: he/him
+✔ At this moment, i´m trying to develop my knowledge to be a junior developer<br>🌱 I’m currently learning front-end and your world, to be a fullstack developer !<br>📫 How to reach me: email: lucasserrano376@gmail.com<br>🔨 Linkedin: https://www.linkedin.com/in/lucas-serrano-8168b6206/<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
